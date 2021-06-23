@@ -1,0 +1,72 @@
+	<html>
+<head>
+<style>
+body{
+	background-color:#696969 ;
+	
+}
+h1{
+	color:#ff1234;
+	text-shadow:2px 2px #3af2d8;
+	
+}
+.ass{
+	display:inline;
+    //background-color:#98FB98;//	
+}
+img{
+	display:inline;
+	border-radius:15px;
+}
+div{
+	display:inline;
+    background-color:#fff;	
+	
+   }
+   ul{float:right;list-style-type:none;}
+  
+   ul li{display:inline-block;}
+   
+   UL LI A{TEXT-DECORATION:NONE;
+					COLOR:WHITE;
+					border:5px;
+					PADDING:5PX 20PX;
+					TRANSITION:0.6s ease;}
+	ul li a:hover{background-color:#fff;
+			color:#000;
+	}
+	.1{
+		background-color:#FFF;
+	      
+	}
+  
+
+</style>
+</head>
+<body>
+<!.....header section>
+  <ul>
+  <li><A HREF="#">HOME</A></li>
+  <li><A HREF="#">LOGIN</A></li>
+  </ul>
+  <h1 class="ass">&nbsp;&nbsp;&nbsp;ð’¢ð‘…ð’œð’©ð’Ÿð¹ð¸ð’œð’®ð’¯ ð’œð’°ð’¯ð’ªð‘€ð’ªðµð¼ð¿ð¸ð’®</h1>
+  
+  <img class="ass"src="C:\Users\arch\Desktop\shivam\shiv\pic\instagram.svg"align="right"height="50px"width="50px"/>
+ 
+  
+  <br><br>
+  <hr color="red"><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.extremetech.com%2Fwp-content%2Fuploads%2F2019%2F12%2FSONATA-hero-option1-764A5360-edit.jpg&imgrefurl=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F303740-car-of-the-year-extremetechs-best-cars-for-2020&tbnid=yTUc1B6nwrsI_M&vet=12ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ..i&docid=WRUkA1xe_6Tf7M&w=1344&h=743&q=cars&ved=2ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ.jpg"Height="350px"width="350px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.extremetech.com%2Fwp-content%2Fuploads%2F2019%2F12%2FSONATA-hero-option1-764A5360-edit.jpg&imgrefurl=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F303740-car-of-the-year-extremetechs-best-cars-for-2020&tbnid=yTUc1B6nwrsI_M&vet=12ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ..i&docid=WRUkA1xe_6Tf7M&w=1344&h=743&q=cars&ved=2ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ.jpg"Height="350px"width="350px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.extremetech.com%2Fwp-content%2Fuploads%2F2019%2F12%2FSONATA-hero-option1-764A5360-edit.jpg&imgrefurl=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F303740-car-of-the-year-extremetechs-best-cars-for-2020&tbnid=yTUc1B6nwrsI_M&vet=12ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ..i&docid=WRUkA1xe_6Tf7M&w=1344&h=743&q=cars&ved=2ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ.jpg"Height="350px"width="350px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.extremetech.com%2Fwp-content%2Fuploads%2F2019%2F12%2FSONATA-hero-option1-764A5360-edit.jpg&imgrefurl=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F303740-car-of-the-year-extremetechs-best-cars-for-2020&tbnid=yTUc1B6nwrsI_M&vet=12ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ..i&docid=WRUkA1xe_6Tf7M&w=1344&h=743&q=cars&ved=2ahUKEwjc7cfrj67xAhWEG7cAHYzMB4UQMygGegUIARDCAQ.jpg"Height="350px"width="350px"/>
+  
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="1">BOOK</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="1">BOOK</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="1">BOOK</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="1">BOOK</div>
+  
+</body>
+</html>
